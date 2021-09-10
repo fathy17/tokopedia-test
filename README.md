@@ -1,4 +1,4 @@
-Pokemon APP built using vite + create react app
+Pokemon APP built using vite + create react app + graphql
 
 # development
 npm run dev
