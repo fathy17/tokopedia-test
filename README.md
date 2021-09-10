@@ -1,4 +1,5 @@
 Pokemon APP built using vite + create react app + graphql
+demo: https://tokopedia-test.vercel.app/
 
 # development
 npm run dev
